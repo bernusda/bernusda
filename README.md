@@ -1,4 +1,25 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🤖
+
+Meu nome é Bernardo
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Uso esse espaço para minha organizição e compartilhamento dos meus projetos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **bernusda/bernusda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
